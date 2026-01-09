@@ -1,4 +1,4 @@
-Mastering Git
+Mastering Git and Github
 
 EN
 Mastering Git is a knowledge and hands-on practice repository designed to help developers deeply understand and fully master Git — from core fundamentals to advanced techniques commonly used in real-world development workflows.
